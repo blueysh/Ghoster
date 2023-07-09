@@ -1,0 +1,5 @@
+name: Ghoster
+version: '${project.version}'
+main: me.blueysh.ghoster.Ghoster
+api-version: '1.20'
+authors: [Blueysh]
